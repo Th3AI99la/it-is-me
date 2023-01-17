@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,400;1,100&display=swap');
+
+
+* {
+
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+h1 {
+    justify-content: center;
+    display: flex;
+    color: rgb(255, 255, 255);
+
+}
+
+
+h6 {
+
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: right;
+    font-style: italic;
+    font-size: 10px;
+}
+
+body {
+
+    background-color: #282826;
+}
+
+.pdf1{
+
+
+    height: 500px;
+    width: 100%;
+
+}
+
+.pdf1 embed {
+
+    height: 200%;
+    width: 100%;
+}
